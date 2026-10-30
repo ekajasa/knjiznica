@@ -1,7 +1,7 @@
 <template>
   <q-page class="q-pa-md">
     <div class="text-h4 text-weight-bold q-mb-sm">O nama</div>
-<p class="text-subtitle1">Već ima naslov na slici i tekst u kartici, ne treba ništa dodavati.</p>
+<p class="text-subtitle1">Upoznajte Gradsku knjižnicu Rijeka.</p>
     <q-card dark bordered class="bg-grey-9 my-card">
       <q-card-section>
         <q-img src="https://www.rijeka.hr/wp-content/uploads/2023/12/Nova-knji%C5%BEnica-4-901x600.jpg">
